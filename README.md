@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Github]()
+![Github](https://raw.githubusercontent.com/MrEmin/kodluyoruzilkrepo/main/img/kodluyoruz.png)
