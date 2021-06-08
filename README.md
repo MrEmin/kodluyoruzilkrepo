@@ -4,17 +4,17 @@ Bu repo Kodluyoruz Back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde 
 ## Installation
 Öncelikle projeyi clone'layın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-[git clone](https://github.com/MrEmin/kodluyoruzilkrepo.git)
+`git clone https://github.com/MrEmin/kodluyoruzilkrepo.git`
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contribuiting
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
